@@ -34,6 +34,7 @@
   "author": "https://twitter.com/emergingtechguy",
   "readme": "https://github.com/0xreeko/narin/blob/master/README.md",
   "homepage": "https://github.com/0xreeko/ruskelui/blob/master/README.md",
+  "keywords": ["zod", "mongodb", "typescript", "narin"],
   "module": "dist/narin.esm.js",
   "size-limit": [
     {
