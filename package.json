@@ -4,8 +4,7 @@
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
-    "dist",
-    "src"
+    "dist"
   ],
   "engines": {
     "node": ">=10"
@@ -31,7 +30,10 @@
     "trailingComma": "es5"
   },
   "name": "narin",
-  "author": "https://twitter.com/0xreeko",
+  "description": "When Zod and MongoDB meet.",
+  "author": "https://twitter.com/emergingtechguy",
+  "readme": "https://github.com/0xreeko/narin/blob/master/README.md",
+  "homepage": "https://github.com/0xreeko/ruskelui/blob/master/README.md",
   "module": "dist/narin.esm.js",
   "size-limit": [
     {
