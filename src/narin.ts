@@ -1,5 +1,5 @@
 import * as z from 'zod'
-import { MongoClient } from 'mongodb/src'
+import { MongoClient } from 'mongodb/src/mongo_client'
 
 export const createNarinSchema = <N>(schema: z.ZodSchema<N>): NarinSchema<N> => {
     return {
