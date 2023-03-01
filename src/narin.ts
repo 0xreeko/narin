@@ -12,7 +12,7 @@ export const createNarinSchema = <N>(schema: z.ZodSchema<N>): NarinSchema<N> => 
     }
 }
 
-type NarinSchema<N> = {
+export type NarinSchema<N> = {
     validate: (data: any) => N
     serialize: (data: N) => any
 }

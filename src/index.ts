@@ -1,2 +1,1 @@
-export { createNarinSchema } from './narin';
-export { connect } from './narin' 
+export { connect, createNarinSchema, NarinSchema} from './narin';
