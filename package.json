@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -34,7 +34,12 @@
   "author": "https://twitter.com/emergingtechguy",
   "readme": "https://github.com/0xreeko/narin/blob/master/README.md",
   "homepage": "https://github.com/0xreeko/ruskelui/blob/master/README.md",
-  "keywords": ["zod", "mongodb", "typescript", "narin"],
+  "keywords": [
+    "zod",
+    "mongodb",
+    "typescript",
+    "narin"
+  ],
   "module": "dist/narin.esm.js",
   "size-limit": [
     {
